@@ -21,6 +21,8 @@ PyUserInput to function:
   * Mac - Quartz, AppKit
   * Windows - pywin32, pyHook
 
+Quartz can be installed using pip install pyobjc-framework-Quartz
+
 How to get started
 ------------------
 
